@@ -1,0 +1,57 @@
+/*
+  scss header
+ */
+header {
+  width: 100%;
+  height: auto;
+  /*
+      Menu
+   */
+  .header_Menu{
+    width: 60%;
+
+  }
+  .header_btn{
+    .header_btn-group{
+      button{
+        font-size: 1.3rem;
+      }
+    }
+  }
+}
+/*
+    end header
+ */
+
+/*
+  section introduce
+ */
+
+section{
+
+  .introduct-media_title{
+    h1{
+      color:gold;
+    }
+  }
+}
+
+
+/*
+ scss responsive
+ */
+
+@media screen and (max-width: 320px) {
+   
+   
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+
+}
+@media screen and (min-width: 576px) and (max-width: 768px) {
+
+}
+@media screen and (min-width: 320px) and (max-width: 576px) {
+
+}

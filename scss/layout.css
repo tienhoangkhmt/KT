@@ -1,0 +1,32 @@
+/*
+  scss header
+ */
+header {
+  width: 100%;
+  height: auto;
+  /*
+      Menu
+   */
+}
+header .header_Menu {
+  width: 60%;
+}
+header .header_btn .header_btn-group button {
+  font-size: 1.3rem;
+}
+
+/*
+    end header
+ */
+/*
+  section introduce
+ */
+section .introduct-media_title h1 {
+  color: gold;
+}
+
+/*
+ scss responsive
+ */
+
+/*# sourceMappingURL=layout.css.map */
